@@ -1,0 +1,26 @@
+body {
+    background-color: paleturquoise;
+}
+h1 {
+    font-family: Cursive;
+    font-weight: 700;
+    text-align: center;
+}
+h2 {
+    font-family: cursive;
+    text-align: center;
+}
+th, td {
+    font-size: large;
+    line-height: 1.4;
+    position: relative;
+    top: 100px;
+    left: 550px;
+    border: 1px solid blue;
+}
+td {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+
+}
+
